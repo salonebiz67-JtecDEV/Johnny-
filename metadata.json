@@ -1,0 +1,6 @@
+{
+  "name": "Johnny - Evolving AI Voice Companion",
+  "description": "Adaptive AI companion with live voice conversations, evolving persona memory bank, offline-first storage, and personalized prompts.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
